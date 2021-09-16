@@ -9,87 +9,21 @@ import pandas as pd
 import numpy as np
 import folium
 from streamlit_folium import folium_static
-import json
-from pandas import json_normalize
-import unicodedata
-
-
-# In[2]:
-
-
-# Liens de téléchargement des données
-# data2019 et data2020 : allocataires APA puy de dome de 2019 et 2020
-data2019_url = (
-    "https://app.puy-de-dome.fr/open-data/public/files/app-open-data/Allocataires_APA_par_commune_(spatial_points)_1460_2020-09-03.csv")
-
-data2020_url = (
-    "https://app.puy-de-dome.fr/open-data/public/files/app-open-data/Allocataires_APA_par_commune_(spatial_points)_1492_2021-03-18.csv")
-
-# datageo : coordonnées des communes du puy de dome
-datageo_url = (
-    'https://github.com/gregoiredavid/france-geojson/raw/master/departements/63-puy-de-dome/communes-63-puy-de-dome.geojson')
-geo=pd.read_json(datageo_url)
-
-df2020 = pd.read_csv(data2020_url, sep=';', encoding = "ISO-8859-1")
-
-df2019 = pd.read_csv(data2019_url, sep=';', encoding = "ISO-8859-1")
 
 
 # In[3]:
 
 
-# Notebook de nettoyage des données
+# Liens de téléchargement des données
+# data2019 et data2020 : allocataires APA puy de dome de 2019 et 2020
+dfgeo=pd.read_csv('APA_geo.csv')
 
-col_suppr = ['DATE_DEBUT', 'DATE_FIN', 'ID_HISTORIQUE']
-STR = ['CODE_COMMUNE', 'CODE_CANTON']
-NBRE = ['TOTAL', 'TOTAL_FEM', 'TOTAL_HOM', 'TOTAL_M75A', 'TOTAL_7584A', 'TOTAL_P85A', 'TOTAL_DOM', 'TOTAL_ETA']
+df2020 = pd.read_csv('APA_2020.csv')
 
-def nettoie(A):
-    A.columns = A.loc[0]
-    A.drop(0,axis=0,inplace=True)
-    A.drop(col_suppr, axis=1, inplace=True)
-    A.fillna(0, inplace=True)
-    A[STR] = A[STR].astype('str')
-    A[NBRE] = A[NBRE].astype('int')
-    return A
-
-nettoie(df2020)
-nettoie(df2019)
-
-def remove_accents(input_str):
-    nkfd_form = unicodedata.normalize('NFKD', input_str)
-    return u"".join([c for c in nkfd_form if not unicodedata.combining(c)])
-
-dfgeo = json_normalize(geo['features'])
-dfgeo.drop('type', axis=1, inplace=True)
-dfgeo.drop('geometry.type', axis=1, inplace=True)
-dfgeo=dfgeo.rename(columns={"geometry.coordinates": "coordinates",
-                      "properties.code": "CODE_COMMUNE",
-                      "properties.nom": "LIBL_COMMUNE"})
-dfgeo['LIBL_COMMUNE']=dfgeo['LIBL_COMMUNE'].str.upper()
-long,lat=[],[]
-for commune in range(len(dfgeo)):
-    A,B, nbcom=0,0,len(dfgeo['coordinates'][commune][0])
-    for point in range(nbcom):
-        A+= (dfgeo['coordinates'][commune][0][point][0] if commune!=244 else dfgeo['coordinates'][commune][0][0][point][0])
-        B+= (dfgeo['coordinates'][commune][0][point][1] if commune!=244 else dfgeo['coordinates'][commune][0][0][point][1])
-    long.append(A/nbcom)
-    lat.append(B/nbcom)
-
-dfgeo['LONG']=long
-dfgeo['LAT']=lat
-
-for commune in range(len(dfgeo['LIBL_COMMUNE'])):
-    dfgeo['LIBL_COMMUNE'][commune] = remove_accents(dfgeo['LIBL_COMMUNE'][commune])
+df2019 = pd.read_csv('APA_2019.csv')
 
 
-# In[ ]:
-
-
-
-
-
-# In[5]:
+# In[4]:
 
 
 # Titre de la page Streamlit
