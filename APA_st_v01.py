@@ -16,11 +16,11 @@ from streamlit_folium import folium_static
 
 # Liens de téléchargement des données
 # data2019 et data2020 : allocataires APA puy de dome de 2019 et 2020
-dfgeo=pd.read_csv('APA_geo.csv')
+dfgeo=pd.read_csv('./APA_geo.csv')
 
-df2020 = pd.read_csv('APA_2020.csv')
+df2020 = pd.read_csv('./APA_2020.csv')
 
-df2019 = pd.read_csv('APA_2019.csv')
+df2019 = pd.read_csv('./APA_2019.csv')
 
 
 # In[4]:
