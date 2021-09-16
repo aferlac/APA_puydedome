@@ -1,7 +1,2 @@
-#
-####### requirements.txt #######
-#
-###### Requirements without Version Specifiers ######
 folium
 streamlit-folium
-#
