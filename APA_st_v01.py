@@ -11,19 +11,21 @@ import folium
 from streamlit_folium import folium_static
 
 
-# In[3]:
+# In[55]:
 
 
 # Liens de téléchargement des données
 # data2019 et data2020 : allocataires APA puy de dome de 2019 et 2020
 dfgeo=pd.read_csv('./APA_geo.csv')
+for i in range(len(dfgeo)):
+    dfgeo['geo'][i]=eval(dfgeo['geo'][i])
 
 df2020 = pd.read_csv('./APA_2020.csv')
 
 df2019 = pd.read_csv('./APA_2019.csv')
 
 
-# In[4]:
+# In[57]:
 
 
 # Titre de la page Streamlit
@@ -87,8 +89,10 @@ st.text("* : Donnée non disponible, valeur entre 0 et 5 ")
 
 # création de la carte OpenStreetMap du puy de dome indiquant la position de la commune sélectionnée
 map = folium.Map([45.77, 3.15], zoom_start=9)
-folium.Marker(location=[dfgeo['LAT'][dfgeo['LIBL_COMMUNE']==commune], dfgeo['LONG'][dfgeo['LIBL_COMMUNE']==commune]],
-             popup= commune).add_to(map)
+folium.vector_layers.Polygon(locations=dfgeo[(dfgeo['LIBL_COMMUNE']==commune)]['geo'],
+                             fill_color='blue',
+                             popup=commune).add_to(map)
+
 folium_static(map) # Affichage de la carte dans Streamlit
 
 
