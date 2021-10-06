@@ -1,0 +1,471 @@
+,CODE_COMMUNE,LIBL_COMMUNE,NOM_EPCI,NOM_CANTON,TOTAL,TOTAL_FEM,TOTAL_HOM,TOTAL_M75A,TOTAL_7584A,TOTAL_P85A,TOTAL_DOM,TOTAL_ETA,ANNEE_REF,CODE_CANTON
+1,63233,MONTAIGUT,Communauté de communes Sancy Artense,MONTAIGUT,23,17,6,0,0,17,0,0,2014,0
+2,63234,MONTAIGUT-LE-BLANC,Communauté de communes Puy et Couzes,CHAMPEIX,20,15,0,0,6,14,0,0,2014,0
+3,63235,MONTCEL,Communauté de communes de Côtes de Combrailles,COMBRONDE,0,0,0,0,0,0,0,0,2014,0
+4,63236,MONT-DORE,Communauté de communes du Massif du Sancy,ROCHEFORT-MONTAGNE,44,36,8,0,12,30,0,0,2014,0
+5,63237,MONTEL-DE-GELAT,Communauté de communes de Hautes Combrailles,PONTAUMUR,22,18,0,0,0,14,0,0,2014,0
+6,63238,MONTFERMY,Communauté de communes Pontgibaud Sioule et Volcans,PONTGIBAUD,7,6,0,0,0,6,0,0,2014,0
+7,63239,MONTMORIN,Communauté de communes Billom Saint-Dier Vallée du Jauron,BILLOM,16,10,6,0,6,7,0,0,2014,0
+8,63240,MONTPENSIER,Communauté de communes Nord Limagne,AIGUEPERSE,0,0,0,0,0,0,0,0,2014,0
+9,63241,MONTPEYROUX,Communauté de communes Couze Val d'Allier,ISSOIRE,7,0,0,0,0,0,0,0,2014,0
+10,63242,MORIAT,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,15,9,6,0,0,7,0,0,2014,0
+11,63243,MOUREUILLE,Communauté de communes Sancy Artense,MONTAIGUT,10,6,0,0,0,0,0,0,2014,0
+12,63244,LA MOUTADE,Riom Communauté,RIOM-EST,7,0,0,0,0,0,0,0,2014,0
+13,63245,MOZAC,Riom Communauté,RIOM-OUEST,66,50,16,0,19,42,0,0,2014,0
+14,63246,MURAT-LE-QUAIRE,Communauté de communes du Massif du Sancy,ROCHEFORT-MONTAGNE,8,6,0,0,0,6,0,0,2014,0
+15,63247,MUROL,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,27,20,7,0,0,21,0,0,2014,0
+16,63248,NEBOUZAT,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,24,17,7,0,10,13,0,0,2014,0
+17,63249,NERONDE-SUR-DORE,Communauté de communes du Pays de Courpière,LEZOUX,15,11,0,0,6,9,0,0,2014,0
+18,63250,NESCHERS,Communauté de communes Couze Val d'Allier,CHAMPEIX,8,0,0,0,0,0,0,0,2014,0
+19,63251,NEUF-EGLISE,Communauté de communes du Pays de Menat,MENAT,13,10,0,0,0,10,0,0,2014,0
+20,63252,NEUVILLE,Communauté de communes Billom Saint-Dier Vallée du Jauron,BILLOM,11,8,0,0,0,9,0,0,2014,0
+21,63253,NOALHAT,Communauté de communes entre Allier et Bois Noirs,CHATELDON,0,0,0,0,0,0,0,0,2014,0
+22,63254,NOHANENT,Communauté d'Agglomération Clermont-Communauté,ROYAT,31,25,6,0,9,18,0,0,2014,0
+23,63255,NONETTE,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,7,7,0,0,0,0,0,0,2014,0
+24,63256,NOVACELLES,Communauté de communes du Pays d'Arlanc,ARLANC,0,0,0,0,0,0,0,0,2014,0
+25,63257,OLBY,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,12,10,0,0,0,9,0,0,2014,0
+26,63258,OLLIERGUES,Communauté de communes du Pays d'Olliergues,OLLIERGUES,29,26,0,0,11,18,0,0,2014,0
+27,63259,OLLOIX,Communauté de communes Les Cheires,SAINT-AMANT-TALLENDE,0,0,0,0,0,0,0,0,2014,0
+28,63260,OLMET,Communauté de communes du Pays de Courpière,COURPIERE,0,0,0,0,0,0,0,0,2014,0
+29,63261,ORBEIL,Communauté de communes des Côteaux de l'Allier,ISSOIRE,16,10,6,0,7,8,0,0,2014,0
+30,63262,ORCET,Gergovie Val d'Allier Communauté,VEYRE-MONTON,42,34,8,0,17,21,0,0,2014,0
+31,63263,ORCINES,Communauté d'Agglomération Clermont-Communauté,ROYAT,62,48,14,7,17,38,0,0,2014,0
+32,63264,ORCIVAL,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,0,0,0,0,0,0,0,0,2014,0
+33,63265,ORLEAT,Communauté de communes entre Dore et Allier,LEZOUX,35,22,13,0,15,17,0,0,2014,0
+34,63266,ORSONNETTE,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,11,8,0,0,0,8,0,0,2014,0
+35,63267,PALLADUC,Communauté de communes de la Montagne Thiernoise,SAINT-REMY-SUR-DUROLLE,17,12,0,0,6,9,0,0,2014,0
+36,63268,PARDINES,Issoire Communauté,ISSOIRE,0,0,0,0,0,0,0,0,2014,0
+37,63269,PARENT,Communauté de communes Couze Val d'Allier,VIC-LE-COMTE,19,15,0,0,0,14,0,0,2014,0
+38,63270,PARENTIGNAT,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,7,0,0,0,0,0,0,0,2014,0
+39,63271,PASLIERES,Communauté de communes entre Allier et Bois Noirs,CHATELDON,30,21,9,0,13,14,0,0,2014,0
+40,63272,PERIGNAT-LES-SARLIEVE,Communauté d'Agglomération Clermont-Communauté,AUBIERE,39,31,8,0,9,29,0,0,2014,0
+41,63273,PERIGNAT-SUR-ALLIER,Communauté de communes Mûr-Es-Allier,BILLOM,20,16,0,0,0,15,0,0,2014,0
+42,63274,PERPEZAT,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,16,9,7,0,8,8,0,0,2014,0
+43,63275,PERRIER,Issoire Communauté,ISSOIRE,16,9,7,0,0,13,0,0,2014,0
+44,63276,PESCHADOIRES,Communauté de communes entre Dore et Allier,LEZOUX,54,44,10,0,20,30,0,0,2014,0
+45,63277,PESLIERES,Communauté de communes Bassin Minier Montagnes,JUMEAUX,0,0,0,0,0,0,0,0,2014,0
+46,63278,PESSAT-VILLENEUVE,Riom Communauté,RIOM-EST,0,0,0,0,0,0,0,0,2014,0
+47,63279,PICHERANDE,Communauté de communes du Massif du Sancy,LA TOUR D'AUVERGNE,24,14,10,0,8,15,0,0,2014,0
+48,63280,PIGNOLS,Allier Comté Communauté,VIC-LE-COMTE,0,0,0,0,0,0,0,0,2014,0
+49,63281,PIONSAT,Communauté de communes du Pays de Pionsat,PIONSAT,32,23,9,0,9,21,0,0,2014,0
+50,63282,PLAUZAT,Communauté de communes Couze Val d'Allier,VEYRE-MONTON,19,13,6,0,0,12,0,0,2014,0
+51,63283,PONTAUMUR,Communauté de communes de Hautes Combrailles,PONTAUMUR,18,12,6,0,0,11,0,0,2014,0
+52,63284,PONT-DU-CHATEAU,Communauté d'Agglomération Clermont-Communauté,PONT-DU-CHATEAU,182,138,44,23,60,99,0,0,2014,0
+53,63285,PONTGIBAUD,Communauté de communes Pontgibaud Sioule et Volcans,PONTGIBAUD,26,23,0,0,8,16,0,0,2014,0
+54,63286,POUZOL,Communauté de communes du Pays de Menat,MENAT,11,0,6,0,0,6,0,0,2014,0
+55,63287,LES PRADEAUX,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,9,7,0,0,0,0,0,0,2014,0
+56,63288,PROMPSAT,Communauté de communes de Côtes de Combrailles,COMBRONDE,9,6,0,0,0,0,0,0,2014,0
+57,63289,PRONDINES,Communauté de communes Sioulet Chavanon,HERMENT,10,9,0,0,0,8,0,0,2014,0
+58,63290,PULVERIERES,Communauté de communes Volvic Sources et Volcans,PONTGIBAUD,7,0,0,0,0,0,0,0,2014,0
+59,63291,PUY-GUILLAUME,Communauté de communes entre Allier et Bois Noirs,CHATELDON,104,73,31,10,29,65,0,0,2014,0
+60,63292,PUY-SAINT-GULMIER,Communauté de communes de Hautes Combrailles,PONTAUMUR,8,7,0,0,0,0,0,0,2014,0
+61,63293,LE QUARTIER,Communauté de communes du Pays de Pionsat,PIONSAT,7,6,0,0,0,0,0,0,2014,0
+62,63294,QUEUILLE,Manzat Communauté,MANZAT,6,0,0,0,0,0,0,0,2014,0
+63,63295,RANDAN,Communauté de communes de Côteaux de Randan,RANDAN,44,32,12,0,14,29,0,0,2014,0
+64,63296,RAVEL,Communauté de communes entre Dore et Allier,VERTAIZON,17,15,0,0,0,14,0,0,2014,0
+65,63297,REIGNAT,Communauté de communes Billom Saint-Dier Vallée du Jauron,VERTAIZON,0,0,0,0,0,0,0,0,2014,0
+66,63298,LA RENAUDIE,Communauté de communes du Pays de Courpière,COURPIERE,9,0,0,0,0,0,0,0,2014,0
+67,63299,RENTIERES,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+68,63300,RIOM,Riom Communauté,PSEUDO-CANTON DE RIOM,359,281,78,37,94,228,0,0,2014,0
+69,63301,RIS,Communauté de communes entre Allier et Bois Noirs,CHATELDON,19,10,9,0,0,9,0,0,2014,0
+70,63302,LA ROCHE-BLANCHE,Gergovie Val d'Allier Communauté,VEYRE-MONTON,51,37,14,6,24,21,0,0,2014,0
+71,63303,ROCHE-CHARLES-LA-MAYRAND,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+72,63304,ROCHE-D'AGOUX,Communauté de communes du Pays de Pionsat,PIONSAT,0,0,0,0,0,0,0,0,2014,0
+73,63305,ROCHEFORT-MONTAGNE,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,34,24,10,0,7,22,0,0,2014,0
+74,63306,LA ROCHE-NOIRE,Gergovie Val d'Allier Communauté,VIC-LE-COMTE,0,0,0,0,0,0,0,0,2014,0
+75,63307,ROMAGNAT,Communauté d'Agglomération Clermont-Communauté,AUBIERE,146,107,39,12,41,93,0,0,2014,0
+76,63308,ROYAT,Communauté d'Agglomération Clermont-Communauté,ROYAT,96,70,26,10,18,68,0,0,2014,0
+77,63309,SAILLANT,Communauté de communes de la Vallée de l'Ance,VIVEROLS,9,6,0,0,0,0,0,0,2014,0
+78,63310,SAINTE-AGATHE,Communauté de communes de la Montagne Thiernoise,COURPIERE,7,0,0,0,0,0,0,0,2014,0
+79,63311,SAINT-AGOULIN,Communauté de communes Nord Limagne,AIGUEPERSE,0,0,0,0,0,0,0,0,2014,0
+80,63312,SAINT-ALYRE-D'ARLANC,Communauté de communes du Pays d'Arlanc,ARLANC,15,8,7,0,6,6,0,0,2014,0
+81,63313,SAINT-ALYRE-ES-MONTAGNE,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+82,63314,SAINT-AMANT-ROCHE-SAVINE,Communauté de communes du Haut Livradois,SAINT-AMANT-ROCHE-SAVINE,17,11,6,0,0,14,0,0,2014,0
+83,63315,SAINT-AMANT-TALLENDE,Communauté de communes Les Cheires,SAINT-AMANT-TALLENDE,43,38,0,0,13,27,0,0,2014,0
+84,63317,SAINT-ANDRE-LE-COQ,Communauté de communes Limagne Bords d'Allier,RANDAN,15,11,0,0,0,9,0,0,2014,0
+85,63318,SAINT-ANGEL,Manzat Communauté,MANZAT,15,10,0,0,0,11,0,0,2014,0
+86,63319,SAINT-ANTHEME,Communauté de communes de la Vallée de l'Ance,SAINT-ANTHEME,42,31,11,0,15,23,0,0,2014,0
+87,63320,SAINT-AVIT,Communauté de communes de Hautes Combrailles,PONTAUMUR,12,10,0,0,0,9,0,0,2014,0
+88,63321,SAINT-BABEL,Communauté de communes des Côteaux de l'Allier,ISSOIRE,20,14,6,0,8,11,0,0,2014,0
+89,63322,SAINT-BEAUZIRE,Communauté de communes Limagne d'Ennezat,ENNEZAT,32,25,7,0,10,19,0,0,2014,0
+90,63323,SAINT-BONNET-LE-BOURG,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,0,0,0,0,0,0,0,0,2014,0
+91,63324,SAINT-BONNET-LE-CHASTEL,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,15,11,0,0,0,10,0,0,2014,0
+92,63325,SAINT-BONNET-LES-ALLIER,Communauté de communes Mûr-Es-Allier,VERTAIZON,0,0,0,0,0,0,0,0,2014,0
+93,63326,SAINT-BONNET-PRES-ORCIVAL,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,9,7,0,0,0,0,0,0,2014,0
+94,63327,SAINT-BONNET-PRES-RIOM,Riom Communauté,RIOM-EST,35,24,11,0,12,20,0,0,2014,0
+95,63328,SAINTE-CATHERINE,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,0,0,0,0,0,0,0,0,2014,0
+96,63329,SAINTE-CHRISTINE,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,0,0,0,0,0,0,0,0,2014,0
+97,63330,SAINT-CIRGUES-SUR-COUZE,Communauté de communes Puy et Couzes,CHAMPEIX,6,0,0,0,0,0,0,0,2014,0
+98,63331,SAINT-CLEMENT-DE-VALORGUE,Communauté de communes de la Vallée de l'Ance,SAINT-ANTHEME,9,6,0,0,0,0,0,0,2014,0
+99,63332,SAINT-CLEMENT-DE-REGNAT,Communauté de communes de Côteaux de Randan,RANDAN,7,0,0,0,0,6,0,0,2014,0
+100,63333,SAINT-DENIS-COMBARNAZAT,Communauté de communes Limagne Bords d'Allier,RANDAN,9,0,0,0,0,6,0,0,2014,0
+101,63334,SAINT-DIER-D'AUVERGNE,Communauté de communes Billom Saint-Dier Vallée du Jauron,SAINT-DIER-D'AUVERGNE,21,15,6,0,0,15,0,0,2014,0
+102,63335,SAINT-DIERY,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,14,10,0,0,0,9,0,0,2014,0
+103,63336,SAINT-DONAT,Communauté de communes Sancy Artense,LA TOUR D'AUVERGNE,17,11,6,0,7,9,0,0,2014,0
+104,63337,SAINT-ELOY-LA-GLACIERE,Communauté de communes du Haut Livradois,SAINT-AMANT-ROCHE-SAVINE,0,0,0,0,0,0,0,0,2014,0
+105,63338,SAINT-ELOY-LES-MINES,Communauté de communes Sancy Artense,MONTAIGUT,124,96,28,21,26,77,0,0,2014,0
+106,63339,SAINT-ETIENNE-DES-CHAMPS,Communauté de communes de Hautes Combrailles,PONTAUMUR,0,0,0,0,0,0,0,0,2014,0
+107,63340,SAINT-ETIENNE-SUR-USSON,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,10,0,0,0,0,6,0,0,2014,0
+108,63341,SAINT-FERREOL-DES-COTES,Communauté de communes du Pays d'Ambert,AMBERT,12,7,0,0,0,7,0,0,2014,0
+109,63342,SAINT-FLORET,Communauté de communes Puy et Couzes,CHAMPEIX,6,0,0,0,0,0,0,0,2014,0
+110,63343,SAINT-FLOUR,Communauté de communes du Pays de Courpière,SAINT-DIER-D'AUVERGNE,9,0,6,0,0,0,0,0,2014,0
+111,63344,SAINT-GAL-SUR-SIOULE,Communauté de communes du Pays de Menat,MENAT,7,0,0,0,0,0,0,0,2014,0
+112,63345,SAINT-GENES-CHAMPANELLE,Communauté d'Agglomération Clermont-Communauté,BEAUMONT,57,40,17,0,21,32,0,0,2014,0
+113,63346,SAINT-GENES-CHAMPESPE,Communauté de communes Sancy Artense,LA TOUR D'AUVERGNE,15,12,0,0,6,6,0,0,2014,0
+114,63347,SAINT-GENES-DU-RETZ,Communauté de communes Nord Limagne,AIGUEPERSE,9,6,0,0,0,7,0,0,2014,0
+115,63348,SAINT-GENES-LA-TOURETTE,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,8,0,6,0,0,0,0,0,2014,0
+116,63349,SAINT-GEORGES-DE-MONS,Manzat Communauté,MANZAT,54,41,13,6,18,30,0,0,2014,0
+117,63350,SAINT-GEORGES-SUR-ALLIER,Gergovie Val d'Allier Communauté,VIC-LE-COMTE,9,8,0,0,0,7,0,0,2014,0
+118,63351,SAINT-GERMAIN-PRES-HERMENT,Communauté de communes Sioulet Chavanon,HERMENT,0,0,0,0,0,0,0,0,2014,0
+119,63352,SAINT-GERMAIN-LEMBRON,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,59,41,18,0,19,37,0,0,2014,0
+120,63353,SAINT-GERMAIN-L'HERM,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,15,9,6,0,6,9,0,0,2014,0
+121,63354,SAINT-GERVAIS-D'AUVERGNE,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,61,40,21,0,23,36,0,0,2014,0
+122,63355,SAINT-GERVAIS-SOUS-MEYMONT,Communauté de communes du Pays d'Olliergues,OLLIERGUES,13,9,0,0,0,6,0,0,2014,0
+123,63356,SAINT-GERVAZY,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,6,0,0,0,0,6,0,0,2014,0
+124,63357,SAINT-HERENT,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+125,63358,SAINT-HILAIRE-LA-CROIX,Communauté de communes de Côtes de Combrailles,COMBRONDE,9,0,0,0,0,7,0,0,2014,0
+126,63359,SAINT-HILAIRE-LES-MONGES,Communauté de communes de Hautes Combrailles,PONTAUMUR,0,0,0,0,0,0,0,0,2014,0
+127,63360,SAINT-HILAIRE,Communauté de communes du Pays de Pionsat,PIONSAT,17,11,6,0,0,13,0,0,2014,0
+128,63362,SAINT-IGNAT,Communauté de communes Limagne d'Ennezat,ENNEZAT,22,14,8,0,7,13,0,0,2014,0
+129,63363,SAINT-JACQUES-D'AMBUR,Communauté de communes Pontgibaud Sioule et Volcans,PONTGIBAUD,12,6,6,0,0,7,0,0,2014,0
+130,63364,SAINT-JEAN-D'HEURS,Communauté de communes entre Dore et Allier,LEZOUX,10,7,0,0,0,9,0,0,2014,0
+131,63365,SAINT-JEAN-DES-OLLIERES,Communauté de communes Billom Saint-Dier Vallée du Jauron,SAINT-DIER-D'AUVERGNE,11,8,0,0,0,0,0,0,2014,0
+132,63366,SAINT-JEAN-EN-VAL,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,7,0,0,0,0,6,0,0,2014,0
+133,63367,SAINT-JEAN-SAINT-GERVAIS,Communauté de communes Bassin Minier Montagnes,JUMEAUX,0,0,0,0,0,0,0,0,2014,0
+134,63368,SAINT-JULIEN-DE-COPPEL,Communauté de communes Billom Saint-Dier Vallée du Jauron,BILLOM,17,10,7,0,0,12,0,0,2014,0
+135,63369,SAINT-JULIEN-LA-GENESTE,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,0,0,0,0,0,0,0,0,2014,0
+136,63370,SAINT-JULIEN-PUY-LAVEZE,Communauté de communes Sancy Artense,BOURG-LASTIC,14,9,0,0,0,9,0,0,2014,0
+137,63371,SAINT-JUST,Communauté de communes Livradois Porte d'Auvergne,VIVEROLS,8,7,0,0,0,0,0,0,2014,0
+138,63372,SAINT-LAURE,Communauté de communes Limagne d'Ennezat,ENNEZAT,11,8,0,0,0,0,0,0,2014,0
+139,63373,SAINT-MAIGNER,Communauté de communes du Pays de Pionsat,PIONSAT,6,0,0,0,0,0,0,0,2014,0
+140,63374,SAINT-MARTIN-DES-OLMES,Communauté de communes Livradois Porte d'Auvergne,AMBERT,0,0,0,0,0,0,0,0,2014,0
+141,63375,SAINT-MARTIN-DES-PLAINS,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,6,0,0,0,0,0,0,0,2014,0
+142,63376,SAINT-MARTIN-D'OLLIERES,Communauté de communes Bassin Minier Montagnes,JUMEAUX,0,0,0,0,0,0,0,0,2014,0
+143,63377,SAINT-MAURICE-PRES-PIONSAT,Communauté de communes du Pays de Pionsat,PIONSAT,13,8,0,0,7,0,0,0,2014,0
+144,63378,SAINT-MAURICE,Gergovie Val d'Allier Communauté,VIC-LE-COMTE,11,8,0,0,0,9,0,0,2014,0
+145,63379,SAINT-MYON,Communauté de communes de Côtes de Combrailles,COMBRONDE,6,0,0,0,0,0,0,0,2014,0
+146,63380,SAINT-NECTAIRE,Communauté de communes du Massif du Sancy,CHAMPEIX,21,15,6,0,8,11,0,0,2014,0
+147,63381,SAINT-OURS,Communauté de communes Volvic Sources et Volcans,PONTGIBAUD,29,19,10,0,11,14,0,0,2014,0
+148,63382,SAINT-PARDOUX,Communauté de communes du Pays de Menat,MENAT,12,6,6,0,0,8,0,0,2014,0
+149,63383,SAINT-PIERRE-COLAMINE,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,7,6,0,0,0,0,0,0,2014,0
+150,63384,SAINT-PIERRE-LA-BOURLHONNE,Communauté de communes du Pays d'Olliergues,OLLIERGUES,0,0,0,0,0,0,0,0,2014,0
+151,63385,SAINT-PIERRE-LE-CHASTEL,Communauté de communes Pontgibaud Sioule et Volcans,PONTGIBAUD,8,8,0,0,0,0,0,0,2014,0
+152,63386,SAINT-PIERRE-ROCHE,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,11,10,0,0,6,0,0,0,2014,0
+153,63387,SAINT-PRIEST-BRAMEFANT,Communauté de communes de Côteaux de Randan,RANDAN,12,10,0,0,0,6,0,0,2014,0
+154,63388,SAINT-PRIEST-DES-CHAMPS,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,33,24,9,0,7,23,0,0,2014,0
+155,63389,SAINT-QUENTIN-SUR-SAUXILLANGES,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,0,0,0,0,0,0,0,0,2014,0
+156,63390,SAINT-QUINTIN-SUR-SIOULE,Communauté de communes du Pays de Menat,MENAT,0,0,0,0,0,0,0,0,2014,0
+157,63391,SAINT-REMY-DE-BLOT,Communauté de communes du Pays de Menat,MENAT,9,8,0,0,6,0,0,0,2014,0
+158,63392,SAINT-REMY-DE-CHARGNAT,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,15,10,0,0,0,10,0,0,2014,0
+159,63393,SAINT-REMY-SUR-DUROLLE,Thiers Communauté,SAINT-REMY-SUR-DUROLLE,54,45,9,6,11,37,0,0,2014,0
+160,63394,SAINT-ROMAIN,Communauté de communes de la Vallée de l'Ance,SAINT-ANTHEME,10,0,0,0,0,6,0,0,2014,0
+161,63395,SAINT-SANDOUX,Communauté de communes Les Cheires,SAINT-AMANT-TALLENDE,14,11,0,0,0,10,0,0,2014,0
+162,63396,SAINT-SATURNIN,Communauté de communes Les Cheires,SAINT-AMANT-TALLENDE,16,10,6,0,0,10,0,0,2014,0
+163,63397,SAINT-SAUVES-D'AUVERGNE,Communauté de communes Sancy Artense,TAUVES,42,30,12,0,14,23,0,0,2014,0
+164,63398,SAINT-SAUVEUR-LA-SAGNE,Communauté de communes du Pays d'Arlanc,ARLANC,0,0,0,0,0,0,0,0,2014,0
+165,63399,SAINT-SULPICE,Communauté de communes Sioulet Chavanon,BOURG-LASTIC,0,0,0,0,0,0,0,0,2014,0
+166,63400,SAINT-SYLVESTRE-PRAGOULIN,Communauté de communes de Côteaux de Randan,RANDAN,30,20,10,0,6,21,0,0,2014,0
+167,63401,SAINT-VICTOR-LA-RIVIERE,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,0,0,0,0,0,0,0,0,2014,0
+168,63402,SAINT-VICTOR-MONTVIANEIX,Communauté de communes de la Montagne Thiernoise,SAINT-REMY-SUR-DUROLLE,10,6,0,0,0,9,0,0,2014,0
+169,63403,SAINT-VINCENT,Communauté de communes Puy et Couzes,CHAMPEIX,8,7,0,0,0,7,0,0,2014,0
+170,63404,SAINT-YVOINE,Communauté de communes des Côteaux de l'Allier,ISSOIRE,8,7,0,0,0,0,0,0,2014,0
+171,63405,SALLEDES,Allier Comté Communauté,VIC-LE-COMTE,14,8,6,0,0,9,0,0,2014,0
+172,63406,SARDON,Communauté de communes Nord Limagne,AIGUEPERSE,0,0,0,0,0,0,0,0,2014,0
+173,63407,SAULZET-LE-FROID,Communauté de communes Les Cheires,SAINT-AMANT-TALLENDE,13,8,0,0,0,11,0,0,2014,0
+174,63408,SAURET-BESSERVE,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,0,0,0,0,0,0,0,0,2014,0
+175,63409,SAURIER,Communauté de communes Puy et Couzes,CHAMPEIX,0,0,0,0,0,0,0,0,2014,0
+176,63410,SAUVAGNAT,Communauté de communes Sioulet Chavanon,HERMENT,0,0,0,0,0,0,0,0,2014,0
+177,63411,SAUVAGNAT-SAINTE-MARTHE,Communauté de communes Couze Val d'Allier,ISSOIRE,11,6,0,0,0,7,0,0,2014,0
+178,63412,SAUVESSANGES,Communauté de communes de la Vallée de l'Ance,VIVEROLS,15,13,0,0,0,10,0,0,2014,0
+179,63413,LA SAUVETAT,Gergovie Val d'Allier Communauté,VEYRE-MONTON,19,14,0,0,7,11,0,0,2014,0
+180,63414,SAUVIAT,Communauté de communes du Pays de Courpière,COURPIERE,13,8,0,0,0,8,0,0,2014,0
+181,63415,SAUXILLANGES,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,33,24,9,0,12,17,0,0,2014,0
+182,63416,SAVENNES,Communauté de communes Sioulet Chavanon,BOURG-LASTIC,7,0,0,0,0,0,0,0,2014,0
+183,63417,SAYAT,Communauté de communes Volvic Sources et Volcans,GERZAT,36,21,15,0,11,20,0,0,2014,0
+184,63418,SERMENTIZON,Communauté de communes du Pays de Courpière,COURPIERE,15,11,0,0,0,12,0,0,2014,0
+185,63419,SERVANT,Communauté de communes du Pays de Menat,MENAT,19,16,0,0,6,13,0,0,2014,0
+186,63420,SEYCHALLES,Communauté de communes entre Dore et Allier,LEZOUX,21,11,10,0,0,12,0,0,2014,0
+187,63421,SINGLES,Communauté de communes Sancy Artense,TAUVES,11,7,0,0,8,0,0,0,2014,0
+188,63422,SOLIGNAT,Communauté de communes Puy et Couzes,ISSOIRE,16,14,0,0,0,13,0,0,2014,0
+189,63423,SUGERES,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,14,0,9,0,6,7,0,0,2014,0
+190,63424,SURAT,Communauté de communes Limagne d'Ennezat,ENNEZAT,10,6,0,0,0,0,0,0,2014,0
+191,63425,TALLENDE,Communauté de communes Les Cheires,VEYRE-MONTON,22,16,6,0,0,14,0,0,2014,0
+192,63426,TAUVES,Communauté de communes Sancy Artense,TAUVES,30,17,13,0,12,17,0,0,2014,0
+193,63427,TEILHEDE,Communauté de communes de Côtes de Combrailles,COMBRONDE,9,8,0,0,0,0,0,0,2014,0
+194,63428,TEILHET,Communauté de communes du Pays de Menat,MENAT,7,0,0,0,0,7,0,0,2014,0
+195,63429,TERNANT-LES-EAUX,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+196,63430,THIERS,Thiers Communauté,THIERS,397,309,88,46,118,233,0,0,2014,0
+197,63431,THIOLIERES,Communauté de communes du Pays d'Ambert,AMBERT,8,6,0,0,0,0,0,0,2014,0
+198,63432,THURET,Communauté de communes Nord Limagne,AIGUEPERSE,15,11,0,0,0,8,0,0,2014,0
+199,63433,TORTEBESSE,Communauté de communes Sioulet Chavanon,HERMENT,0,0,0,0,0,0,0,0,2014,0
+200,63434,TOURS-SUR-MEYMONT,Communauté de communes du Pays de Cunlhat,SAINT-DIER-D'AUVERGNE,22,17,0,0,7,14,0,0,2014,0
+201,63435,TOURZEL-RONZIERES,Communauté de communes Puy et Couzes,CHAMPEIX,6,0,0,0,0,0,0,0,2014,0
+202,63436,TRALAIGUES,Communauté de communes de Hautes Combrailles,PONTAUMUR,0,0,0,0,0,0,0,0,2014,0
+203,63437,TREMOUILLE-SAINT-LOUP,Communauté de communes Sancy Artense,LA TOUR D'AUVERGNE,8,6,0,0,0,7,0,0,2014,0
+204,63438,TREZIOUX,Communauté de communes Billom Saint-Dier Vallée du Jauron,SAINT-DIER-D'AUVERGNE,15,11,0,0,0,11,0,0,2014,0
+205,63439,USSON,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,8,7,0,0,0,0,0,0,2014,0
+206,63440,VALBELEIX,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,0,0,0,0,0,0,0,0,2014,0
+207,63441,VALCIVIERES,Communauté de communes du Pays d'Ambert,AMBERT,11,8,0,0,6,0,0,0,2014,0
+208,63442,VALZ-SOUS-CHATEAUNEUF,Communauté de communes Bassin Minier Montagnes,JUMEAUX,0,0,0,0,0,0,0,0,2014,0
+209,63443,VARENNES-SUR-MORGE,Communauté de communes Limagne d'Ennezat,ENNEZAT,9,0,0,0,0,0,0,0,2014,0
+210,63444,VARENNES-SUR-USSON,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,0,0,0,0,0,0,0,0,2014,0
+211,63445,VASSEL,Communauté de communes Billom Saint-Dier Vallée du Jauron,VERTAIZON,9,6,0,0,0,0,0,0,2014,0
+212,63446,VENSAT,Communauté de communes Nord Limagne,AIGUEPERSE,10,8,0,0,0,6,0,0,2014,0
+213,63447,VERGHEAS,Communauté de communes du Pays de Pionsat,PIONSAT,8,6,0,0,0,0,0,0,2014,0
+214,63121,COUDES,Communauté de communes Couze Val d'Allier,ISSOIRE,29,22,7,7,9,13,0,0,2014,0
+215,63122,COURGOUL,Communauté de communes Puy et Couzes,CHAMPEIX,0,0,0,0,0,0,0,0,2014,0
+216,63123,COURNOLS,Communauté de communes Les Cheires,SAINT-AMANT-TALLENDE,6,0,0,0,0,0,0,0,2014,0
+217,63124,COURNON-D'AUVERGNE,Communauté d'Agglomération Clermont-Communauté,COURNON D'AUVERGNE,359,259,100,43,127,189,0,0,2014,0
+218,63125,COURPIERE,Communauté de communes du Pays de Courpière,COURPIERE,168,124,44,21,50,97,0,0,2014,0
+219,63126,LE CREST,Communauté de communes Les Cheires,VEYRE-MONTON,23,16,7,0,0,18,0,0,2014,0
+220,63127,CRESTE,Communauté de communes Puy et Couzes,CHAMPEIX,0,0,0,0,0,0,0,0,2014,0
+221,63128,CREVANT-LAVEINE,Communauté de communes entre Dore et Allier,LEZOUX,21,15,6,0,8,12,0,0,2014,0
+222,63129,CROS,Communauté de communes Sancy Artense,LA TOUR D'AUVERGNE,11,6,0,0,0,6,0,0,2014,0
+223,63130,LA CROUZILLE,Communauté de communes Sancy Artense,MONTAIGUT,12,8,0,0,0,9,0,0,2014,0
+224,63131,CULHAT,Communauté de communes entre Dore et Allier,LEZOUX,27,20,7,0,6,20,0,0,2014,0
+225,63132,CUNLHAT,Communauté de communes du Pays de Cunlhat,CULHAT,35,27,8,0,12,19,0,0,2014,0
+226,63133,DALLET,Communauté de communes Mûr-Es-Allier,PONT-DU-CHATEAU,22,19,0,0,11,10,0,0,2014,0
+227,63134,DAUZAT-SUR-VODABLE,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+228,63135,DAVAYAT,Communauté de communes de Côtes de Combrailles,COMBRONDE,7,6,0,0,0,7,0,0,2014,0
+229,63136,DOMAIZE,Communauté de communes du Pays de Cunlhat,SAINT-DIER-D'AUVERGNE,0,0,0,0,0,0,0,0,2014,0
+230,63137,DORANGES,Communauté de communes du Pays d'Arlanc,ARLANC,9,0,0,0,0,0,0,0,2014,0
+231,63138,DORAT,Thiers Communauté,THIERS,17,13,0,0,0,12,0,0,2014,0
+232,63139,DORE-L'EGLISE,Communauté de communes du Pays d'Arlanc,ARLANC,19,17,0,0,8,8,0,0,2014,0
+233,63140,DURMIGNAT,Communauté de communes Sancy Artense,MONTAIGUT,0,0,0,0,0,0,0,0,2014,0
+234,63141,DURTOL,Communauté d'Agglomération Clermont-Communauté,ROYAT,30,26,0,0,10,19,0,0,2014,0
+235,63142,ECHANDELYS,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,11,10,0,0,0,7,0,0,2014,0
+236,63143,EFFIAT,Communauté de communes Nord Limagne,AIGUEPERSE,19,11,8,0,7,10,0,0,2014,0
+237,63144,EGLISENEUVE-D'ENTRAIGUES,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,30,22,8,0,10,19,0,0,2014,0
+238,63145,EGLISENEUVE-DES-LIARDS,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,8,0,0,0,0,6,0,0,2014,0
+239,63146,EGLISENEUVE-PRES-BILLOM,Communauté de communes Billom Saint-Dier Vallée du Jauron,BILLOM,17,13,0,0,0,11,0,0,2014,0
+240,63147,EGLISOLLES,Communauté de communes de la Vallée de l'Ance,VIVEROLS,10,8,0,0,0,6,0,0,2014,0
+241,63148,ENNEZAT,Communauté de communes Limagne d'Ennezat,ENNEZAT,45,33,12,0,11,30,0,0,2014,0
+242,63149,ENTRAIGUES,Communauté de communes Limagne d'Ennezat,ENNEZAT,12,10,0,0,0,10,0,0,2014,0
+243,63150,ENVAL,Riom Communauté,RIOM-OUEST,13,8,0,0,0,9,0,0,2014,0
+244,63151,ESCOUTOUX,Thiers Communauté,THIERS,36,31,0,0,8,24,0,0,2014,0
+245,63152,ESPINASSE,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,8,0,0,0,0,0,0,0,2014,0
+246,63153,ESPINCHAL,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,0,0,0,0,0,0,0,0,2014,0
+247,63154,ESPIRAT,Communauté de communes Billom Saint-Dier Vallée du Jauron,VERTAIZON,7,0,0,0,0,0,0,0,2014,0
+248,63155,ESTANDEUIL,Communauté de communes Billom Saint-Dier Vallée du Jauron,SAINT-DIER-D'AUVERGNE,0,0,0,0,0,0,0,0,2014,0
+249,63156,ESTEIL,Communauté de communes Bassin Minier Montagnes,JUMEAUX,0,0,0,0,0,0,0,0,2014,0
+250,63157,FAYET-LE-CHATEAU,Communauté de communes Billom Saint-Dier Vallée du Jauron,SAINT-DIER-D'AUVERGNE,9,6,0,0,0,0,0,0,2014,0
+251,63158,FAYET-RONAYE,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,6,0,0,0,0,0,0,0,2014,0
+252,63159,FERNOEL,Communauté de communes de Hautes Combrailles,PONTAUMUR,8,7,0,0,0,6,0,0,2014,0
+253,63160,FLAT,Communauté de communes des Côteaux de l'Allier,ISSOIRE,7,0,0,0,0,0,0,0,2014,0
+254,63161,LA FORIE,Communauté de communes du Pays d'Ambert,AMBERT,13,9,0,0,7,6,0,0,2014,0
+255,63162,FOURNOLS,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,16,9,7,0,0,8,0,0,2014,0
+256,63163,GELLES,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,36,26,10,6,12,18,0,0,2014,0
+257,63164,GERZAT,Communauté d'Agglomération Clermont-Communauté,GERZAT,162,114,48,26,52,84,0,0,2014,0
+258,63165,GIAT,Communauté de communes de Hautes Combrailles,PONTAUMUR,42,32,10,0,9,28,0,0,2014,0
+259,63166,GIGNAT,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,10,7,0,0,0,8,0,0,2014,0
+260,63167,GIMEAUX,Communauté de communes de Côtes de Combrailles,COMBRONDE,0,0,0,0,0,0,0,0,2014,0
+261,63168,GLAINE-MONTAIGUT,Communauté de communes Billom Saint-Dier Vallée du Jauron,BILLOM,10,8,0,0,0,6,0,0,2014,0
+262,63169,LA GODIVELLE,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+263,63170,LA GOUTELLE,Communauté de communes Pontgibaud Sioule et Volcans,PONTGIBAUD,24,16,8,0,12,11,0,0,2014,0
+264,63171,GOUTTIERES,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,6,6,0,0,0,0,0,0,2014,0
+265,63172,GRANDEYROLLES,Communauté de communes Puy et Couzes,CHAMPEIX,0,0,0,0,0,0,0,0,2014,0
+266,63173,GRANDRIF,Communauté de communes Livradois Porte d'Auvergne,SAINT-ANTHEME,8,7,0,0,0,0,0,0,2014,0
+267,63174,GRANDVAL,Communauté de communes du Haut Livradois,SAINT-AMANT-ROCHE-SAVINE,0,0,0,0,0,0,0,0,2014,0
+268,63175,HERMENT,Communauté de communes Sioulet Chavanon,HERMENT,13,7,6,0,0,8,0,0,2014,0
+269,63176,HEUME-L'EGLISE,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,6,0,0,0,0,0,0,0,2014,0
+270,63177,ISSERTEAUX,Communauté de communes Billom Saint-Dier Vallée du Jauron,VIC-LE-COMTE,12,9,0,0,0,7,0,0,2014,0
+271,63178,ISSOIRE,Issoire Communauté,ISSOIRE,377,287,90,45,109,223,0,0,2014,0
+272,63179,JOB,Communauté de communes du Pays d'Ambert,AMBERT,21,14,7,0,0,16,0,0,2014,0
+273,63180,JOZE,Communauté de communes entre Dore et Allier,MARINGUES,20,16,0,0,7,13,0,0,2014,0
+274,63181,JOSERAND,Communauté de communes de Côtes de Combrailles,COMBRONDE,10,7,0,0,0,7,0,0,2014,0
+275,63182,JUMEAUX,Communauté de communes Bassin Minier Montagnes,JUMEAUX,24,15,9,0,0,17,0,0,2014,0
+276,63183,LABESSETTE,Communauté de communes Sancy Artense,TAUVES,0,0,0,0,0,0,0,0,2014,0
+277,63184,LACHAUX,Communauté de communes entre Allier et Bois Noirs,CHATELDON,12,6,6,0,0,9,0,0,2014,0
+278,63185,LAMONTGIE,Communauté de communes du Pays de Sauxillanges,JUMEAUX,18,14,0,0,6,12,0,0,2014,0
+279,63186,LANDOGNE,Communauté de communes de Hautes Combrailles,PONTAUMUR,10,0,0,0,6,0,0,0,2014,0
+280,63187,LAPEYROUSE,Communauté de communes Sancy Artense,MONTAIGUT,20,13,7,0,6,12,0,0,2014,0
+281,63188,LAPS,Allier Comté Communauté,VIC-LE-COMTE,0,0,0,0,0,0,0,0,2014,0
+282,63189,LAQUEUILLE,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,7,6,0,0,0,0,0,0,2014,0
+283,63190,LARODDE,Communauté de communes Sancy Artense,TAUVES,15,11,0,0,0,9,0,0,2014,0
+284,63191,LASTIC,Communauté de communes Sioulet Chavanon,BOURG-LASTIC,8,7,0,0,0,0,0,0,2014,0
+285,63192,LA TOUR-D'AUVERGNE,Communauté de communes Sancy Artense,LA TOUR D'AUVERGNE,26,19,7,0,9,17,0,0,2014,0
+286,63193,LEMPDES,Communauté d'Agglomération Clermont-Communauté,PONT-DU-CHATEAU,150,114,36,14,54,82,0,0,2014,0
+287,63194,LEMPTY,Communauté de communes entre Dore et Allier,LEZOUX,8,6,0,0,0,0,0,0,2014,0
+288,63195,LEZOUX,Communauté de communes entre Dore et Allier,LEZOUX,145,106,39,19,43,83,0,0,2014,0
+289,63196,LIMONS,Communauté de communes Limagne Bords d'Allier,MARINGUES,21,15,6,0,8,10,0,0,2014,0
+290,63197,LISSEUIL,Communauté de communes du Pays de Menat,MENAT,0,0,0,0,0,0,0,0,2014,0
+291,63198,LOUBEYRAT,Manzat Communauté,MANZAT,16,10,6,0,6,10,0,0,2014,0
+292,63199,LUDESSE,Communauté de communes Puy et Couzes,CHAMPEIX,11,6,0,0,0,6,0,0,2014,0
+293,63200,LUSSAT,Communauté de communes Limagne d'Ennezat,PONT-DU-CHATEAU,15,11,0,0,0,9,0,0,2014,0
+294,63201,LUZILLAT,Communauté de communes Limagne Bords d'Allier,MARINGUES,22,14,8,0,0,14,0,0,2014,0
+295,63202,MADRIAT,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+296,63203,MALAUZAT,Riom Communauté,RIOM-OUEST,14,10,0,0,0,9,0,0,2014,0
+297,63204,MALINTRAT,Communauté de communes Limagne d'Ennezat,GERZAT,19,13,6,0,7,11,0,0,2014,0
+298,63205,MANGLIEU,Allier Comté Communauté,VIC-LE-COMTE,11,6,0,0,0,9,0,0,2014,0
+299,63206,MANZAT,Manzat Communauté,MANZAT,34,24,10,0,0,26,0,0,2014,0
+300,63207,MARAT,Communauté de communes du Pays d'Olliergues,OLLIERGUES,35,24,11,0,10,21,0,0,2014,0
+301,63208,MARCILLAT,Communauté de communes du Pays de Menat,MENAT,7,0,0,0,0,0,0,0,2014,0
+302,63209,MAREUGHEOL,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,0,0,0,0,0,0,0,0,2014,0
+303,63210,MARINGUES,Communauté de communes Limagne Bords d'Allier,MARINGUES,58,43,15,8,17,33,0,0,2014,0
+304,63211,MARSAC-EN-LIVRADOIS,Communauté de communes Livradois Porte d'Auvergne,AMBERT,56,45,11,6,22,28,0,0,2014,0
+305,63212,MARSAT,Riom Communauté,RIOM-OUEST,16,10,6,0,0,11,0,0,2014,0
+306,63213,LES MARTRES-D'ARTIERE,Communauté de communes Limagne d'Ennezat,PONT-DU-CHATEAU,27,17,10,6,9,12,0,0,2014,0
+307,63214,LES MARTRES-DE-VEYRE,Gergovie Val d'Allier Communauté,VEYRE-MONTON,90,70,20,8,20,62,0,0,2014,0
+308,63215,MARTRES-SUR-MORGE,Communauté de communes Limagne d'Ennezat,ENNEZAT,12,8,0,0,7,0,0,0,2014,0
+309,63216,MAUZUN,Communauté de communes Billom Saint-Dier Vallée du Jauron,BILLOM,0,0,0,0,0,0,0,0,2014,0
+310,63218,MAYRES,Communauté de communes du Pays d'Arlanc,ARLANC,10,9,0,0,0,8,0,0,2014,0
+311,63219,MAZAYE,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,17,12,0,0,6,9,0,0,2014,0
+312,63220,MAZOIRES,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+313,63221,MEDEYROLLES,Communauté de communes de la Vallée de l'Ance,VIVEROLS,8,0,0,0,0,7,0,0,2014,0
+314,63222,MEILHAUD,Issoire Communauté,ISSOIRE,0,0,0,0,0,0,0,0,2014,0
+315,63223,MENAT,Communauté de communes du Pays de Menat,MENAT,19,15,0,0,0,12,0,0,2014,0
+316,63224,MENETROL,Riom Communauté,RIOM-EST,19,15,0,0,7,8,0,0,2014,0
+317,63225,MESSEIX,Communauté de communes Sioulet Chavanon,BOURG-LASTIC,73,58,15,8,15,50,0,0,2014,0
+318,63226,MEZEL,Communauté de communes Mûr-Es-Allier,VERTAIZON,25,19,6,0,10,13,0,0,2014,0
+319,63227,MIREFLEURS,Gergovie Val d'Allier Communauté,VIC-LE-COMTE,23,19,0,6,9,8,0,0,2014,0
+320,63228,MIREMONT,Communauté de communes de Hautes Combrailles,PONTAUMUR,7,0,0,0,0,0,0,0,2014,0
+321,63229,MOISSAT,Communauté de communes entre Dore et Allier,VERTAIZON,21,18,0,0,7,12,0,0,2014,0
+322,63230,LE MONESTIER,Communauté de communes du Haut Livradois,SAINT-AMANT-ROCHE-SAVINE,10,0,6,0,0,9,0,0,2014,0
+323,63231,LA MONNERIE-LE-MONTEL,Communauté de communes de la Montagne Thiernoise,SAINT-REMY-SUR-DUROLLE,55,35,20,7,18,30,0,0,2014,0
+324,63232,MONS,Communauté de communes de Côteaux de Randan,RANDAN,16,13,0,0,7,9,0,0,2014,0
+325,63448,VERNET-LA-VARENNE,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,18,15,0,0,6,11,0,0,2014,0
+326,63449,LE VERNET-SAINTE-MARGUERITE,Communauté de communes Les Cheires,SAINT-AMANT-TALLENDE,11,8,0,0,0,7,0,0,2014,0
+327,63450,VERNEUGHEOL,Communauté de communes Sioulet Chavanon,HERMENT,14,8,6,0,0,10,0,0,2014,0
+328,63451,VERNINES,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,7,6,0,0,0,6,0,0,2014,0
+329,63452,VERRIERES,Communauté de communes Puy et Couzes,CHAMPEIX,0,0,0,0,0,0,0,0,2014,0
+330,63453,VERTAIZON,Communauté de communes Billom Saint-Dier Vallée du Jauron,VERTAIZON,47,32,15,0,12,31,0,0,2014,0
+331,63454,VERTOLAYE,Communauté de communes du Pays d'Olliergues,OLLIERGUES,21,18,0,0,0,15,0,0,2014,0
+332,63455,VEYRE-MONTON,Gergovie Val d'Allier Communauté,VEYRE-MONTON,53,38,15,0,13,38,0,0,2014,0
+333,63456,VICHEL,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,0,0,0,0,0,0,0,0,2014,0
+334,63457,VIC-LE-COMTE,Allier Comté Communauté,VIC-LE-COMTE,94,71,23,7,28,59,0,0,2014,0
+335,63458,VILLENEUVE,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,0,0,0,0,0,0,0,0,2014,0
+336,63459,VILLENEUVE-LES-CERFS,Communauté de communes de Côteaux de Randan,RANDAN,0,0,0,0,0,0,0,0,2014,0
+337,63460,VILLOSANGES,Communauté de communes de Hautes Combrailles,PONTAUMUR,17,10,7,0,0,11,0,0,2014,0
+338,63461,VINZELLES,Communauté de communes entre Dore et Allier,LEZOUX,18,13,0,0,0,13,0,0,2014,0
+339,63462,VIRLET,Communauté de communes du Pays de Marcillat en Combrailles (Allier),MONTAIGUT,6,6,0,0,0,0,0,0,2014,0
+340,63463,VISCOMTAT,Communauté de communes de la Montagne Thiernoise,SAINT-REMY-SUR-DUROLLE,30,25,0,0,8,20,0,0,2014,0
+341,63464,VITRAC,Manzat Communauté,MANZAT,13,8,0,0,0,9,0,0,2014,0
+342,63465,VIVEROLS,Communauté de communes de la Vallée de l'Ance,VIVEROLS,18,13,0,0,0,11,0,0,2014,0
+343,63466,VODABLE,Communauté de communes Puy et Couzes,ISSOIRE,0,0,0,0,0,0,0,0,2014,0
+344,63467,VOINGT,Communauté de communes de Hautes Combrailles,PONTAUMUR,0,0,0,0,0,0,0,0,2014,0
+345,63468,VOLLORE-MONTAGNE,Communauté de communes de la Montagne Thiernoise,COURPIERE,12,10,0,0,0,8,0,0,2014,0
+346,63469,VOLLORE-VILLE,Communauté de communes du Pays de Courpière,COURPIERE,21,14,7,0,0,17,0,0,2014,0
+347,63470,VOLVIC,Communauté de communes Volvic Sources et Volcans,RIOM-OUEST,57,47,10,0,22,33,0,0,2014,0
+348,63471,YOUX,Communauté de communes Sancy Artense,MONTAIGUT,40,32,8,0,8,30,0,0,2014,0
+349,63472,YRONDE-ET-BURON,Allier Comté Communauté,VIC-LE-COMTE,17,13,0,0,0,12,0,0,2014,0
+350,63473,YSSAC-LA-TOURETTE,Communauté de communes de Côtes de Combrailles,COMBRONDE,6,0,0,0,0,0,0,0,2014,0
+351,63001,AIGUEPERSE,Communauté de communes Nord Limagne,AIGUEPERSE,55,38,17,8,22,25,0,0,2014,0
+352,63002,AIX-LA-FAYETTE,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,0,0,0,0,0,0,0,0,2014,0
+353,63003,AMBERT,Communauté de communes du Pays d'Ambert,AMBERT,254,197,57,28,79,147,0,0,2014,0
+354,63004,LES ANCIZES-COMPS,Manzat Communauté,MANZAT,50,35,15,7,22,21,0,0,2014,0
+355,63005,ANTOINGT,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,0,0,0,0,0,0,0,0,2014,0
+356,63006,ANZAT-LE-LUGUET,Ardes Communauté,ARDES-SUR-COUZE,15,13,0,0,6,8,0,0,2014,0
+357,63007,APCHAT,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+358,63008,ARCONSAT,Communauté de communes de la Montagne Thiernoise,SAINT-REMY-SUR-DUROLLE,22,16,6,0,6,13,0,0,2014,0
+359,63009,ARDES,Ardes Communauté,ARDES-SUR-COUZE,35,25,10,0,12,22,0,0,2014,0
+360,63010,ARLANC,Communauté de communes du Pays d'Arlanc,ARLANC,60,42,18,7,15,38,0,0,2014,0
+361,63011,ARS-LES-FAVETS,Communauté de communes Sancy Artense,MONTAIGUT,10,8,0,0,0,7,0,0,2014,0
+362,63012,ARTONNE,Communauté de communes Nord Limagne,AIGUEPERSE,15,9,6,0,7,6,0,0,2014,0
+363,63013,AUBIAT,Communauté de communes Nord Limagne,AIGUEPERSE,15,11,0,0,0,11,0,0,2014,0
+364,63014,AUBIERE,Communauté d'Agglomération Clermont-Communauté,AUBIERE,210,160,50,22,56,132,0,0,2014,0
+365,63015,AUBUSSON-D'AUVERGNE,Communauté de communes du Pays de Courpière,COURPIERE,0,0,0,0,0,0,0,0,2014,0
+366,63016,AUGEROLLES,Communauté de communes du Pays de Courpière,COURPIERE,35,26,9,0,9,24,0,0,2014,0
+367,63017,AUGNAT,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+368,63018,AULHAT-SAINT-PRIVAT,Communauté de communes des Côteaux de l'Allier,ISSOIRE,7,0,0,0,0,0,0,0,2014,0
+369,63019,AULNAT,Communauté d'Agglomération Clermont-Communauté,GERZAT,91,63,28,7,49,35,0,0,2014,0
+370,63020,AURIERES,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,10,7,0,0,0,6,0,0,2014,0
+371,63021,AUTHEZAT,Gergovie Val d'Allier Communauté,VEYRE-MONTON,11,7,0,0,0,6,0,0,2014,0
+372,63022,AUZAT-LA-COMBELLE,Communauté de communes Bassin Minier Montagnes,JUMEAUX,68,47,21,0,15,50,0,0,2014,0
+373,63023,AUZELLES,Communauté de communes du Pays de Cunlhat,CULHAT,11,8,0,0,0,11,0,0,2014,0
+374,63024,AVEZE,Communauté de communes Sancy Artense,TAUVES,10,8,0,0,0,6,0,0,2014,0
+375,63025,AYAT-SUR-SIOULE,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,8,7,0,0,0,6,0,0,2014,0
+376,63026,AYDAT,Communauté de communes Les Cheires,SAINT-AMANT-TALLENDE,34,26,8,0,10,22,0,0,2014,0
+377,63027,BAFFIE,Communauté de communes de la Vallée de l'Ance,VIVEROLS,0,0,0,0,0,0,0,0,2014,0
+378,63028,BAGNOLS,Communauté de communes Sancy Artense,LA TOUR D'AUVERGNE,28,19,9,0,9,17,0,0,2014,0
+379,63029,BANSAT,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,0,0,0,0,0,0,0,0,2014,0
+380,63030,BAS-ET-LEZAT,Communauté de communes de Côteaux de Randan,RANDAN,0,0,0,0,0,0,0,0,2014,0
+381,63031,BEAULIEU,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,11,8,0,0,0,0,0,0,2014,0
+382,63032,BEAUMONT,Communauté d'Agglomération Clermont-Communauté,BEAUMONT,210,153,57,15,54,141,0,0,2014,0
+383,63033,BEAUMONT-LES-RANDAN,Communauté de communes de Côteaux de Randan,RANDAN,6,0,0,0,0,0,0,0,2014,0
+384,63034,BEAUREGARD-L'EVEQUE,Communauté de communes Billom Saint-Dier Vallée du Jauron,VERTAIZON,24,18,6,0,0,19,0,0,2014,0
+385,63035,BEAUREGARD-VENDON,Communauté de communes de Côtes de Combrailles,COMBRONDE,21,16,0,0,0,15,0,0,2014,0
+386,63036,BERGONNE,Communauté de communes Lembron Val d'Allier,ISSOIRE,9,8,0,0,0,7,0,0,2014,0
+387,63037,BERTIGNAT,Communauté de communes du Haut Livradois,SAINT-AMANT-ROCHE-SAVINE,20,15,0,0,0,16,0,0,2014,0
+388,63038,BESSE-ET-SAINT-ANASTAISE,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,43,31,12,0,12,28,0,0,2014,0
+389,63039,BEURIERES,Communauté de communes du Pays d'Arlanc,ARLANC,11,7,0,0,0,7,0,0,2014,0
+390,63040,BILLOM,Communauté de communes Billom Saint-Dier Vallée du Jauron,BILLOM,107,80,27,13,38,56,0,0,2014,0
+391,63041,BIOLLET,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,18,13,0,0,0,13,0,0,2014,0
+392,63042,BLANZAT,Communauté d'Agglomération Clermont-Communauté,GERZAT,52,40,12,9,13,30,0,0,2014,0
+393,63043,BLOT-L'EGLISE,Communauté de communes du Pays de Menat,MENAT,12,9,0,0,0,8,0,0,2014,0
+394,63044,BONGHEAT,Communauté de communes Billom Saint-Dier Vallée du Jauron,BILLOM,10,6,0,0,0,8,0,0,2014,0
+395,63045,BORT-L'ETANG,Communauté de communes entre Dore et Allier,BILLOM,13,10,0,0,6,7,0,0,2014,0
+396,63046,BOUDES,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,7,0,0,0,0,0,0,0,2014,0
+397,63047,LA BOURBOULE,Communauté de communes du Massif du Sancy,ROCHEFORT-MONTAGNE,78,60,18,10,26,42,0,0,2014,0
+398,63048,BOURG-LASTIC,Communauté de communes Sioulet Chavanon,BOURG-LASTIC,33,26,7,0,8,23,0,0,2014,0
+399,63049,BOUZEL,Communauté de communes Billom Saint-Dier Vallée du Jauron,VERTAIZON,9,7,0,0,0,0,0,0,2014,0
+400,63050,BRASSAC-LES-MINES,Communauté de communes Bassin Minier Montagnes,JUMEAUX,122,87,35,23,35,64,0,0,2014,0
+401,63051,BRENAT,Communauté de communes des Côteaux de l'Allier,SAUXILLANGES,13,12,0,0,0,11,0,0,2014,0
+402,63052,LE BREUIL-SUR-COUZE,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,26,18,8,0,0,17,0,0,2014,0
+403,63053,BRIFFONS,Communauté de communes Sioulet Chavanon,BOURG-LASTIC,15,9,6,0,0,9,0,0,2014,0
+404,63054,LE BROC,Issoire Communauté,ISSOIRE,15,10,0,0,6,7,0,0,2014,0
+405,63055,BROMONT-LAMOTHE,Communauté de communes Pontgibaud Sioule et Volcans,PONTGIBAUD,31,22,9,0,9,18,0,0,2014,0
+406,63056,BROUSSE,Communauté de communes du Pays de Cunlhat,CULHAT,10,6,0,0,0,7,0,0,2014,0
+407,63057,LE BRUGERON,Communauté de communes du Pays d'Olliergues,OLLIERGUES,21,14,7,0,6,12,0,0,2014,0
+408,63058,BULHON,Communauté de communes entre Dore et Allier,LEZOUX,10,7,0,0,0,7,0,0,2014,0
+409,63059,BUSSEOL,Allier Comté Communauté,VIC-LE-COMTE,0,0,0,0,0,0,0,0,2014,0
+410,63060,BUSSIERES,Communauté de communes du Pays de Pionsat,PIONSAT,6,0,0,0,0,0,0,0,2014,0
+411,63061,BUSSIERES-ET-PRUNS,Communauté de communes Nord Limagne,AIGUEPERSE,8,0,0,0,0,0,0,0,2014,0
+412,63062,BUXIERES-SOUS-MONTAIGUT,Communauté de communes Sancy Artense,MONTAIGUT,0,0,0,0,0,0,0,0,2014,0
+413,63063,CEBAZAT,Communauté d'Agglomération Clermont-Communauté,GERZAT,170,125,45,18,57,95,0,0,2014,0
+414,63064,LA CELLE,Communauté de communes de Hautes Combrailles,PONTAUMUR,0,0,0,0,0,0,0,0,2014,0
+415,63065,CEILLOUX,Communauté de communes du Pays de Cunlhat,SAINT-DIER-D'AUVERGNE,8,0,0,0,0,6,0,0,2014,0
+416,63066,CELLES-SUR-DUROLLE,Communauté de communes de la Montagne Thiernoise,SAINT-REMY-SUR-DUROLLE,53,39,14,0,10,38,0,0,2014,0
+417,63067,LA CELLETTE,Communauté de communes du Pays de Pionsat,PIONSAT,0,0,0,0,0,0,0,0,2014,0
+418,63068,CELLULE,Riom Communauté,RIOM-EST,13,12,0,0,0,8,0,0,2014,0
+419,63069,LE CENDRE,Communauté d'Agglomération Clermont-Communauté,VEYRE-MONTON,77,56,21,7,19,51,0,0,2014,0
+420,63070,CEYRAT,Communauté d'Agglomération Clermont-Communauté,BEAUMONT,113,86,27,16,27,70,0,0,2014,0
+421,63071,CEYSSAT,Communauté de communes de Rochefort-Montagne,ROCHEFORT-MONTAGNE,14,8,6,0,0,11,0,0,2014,0
+422,63072,CHABRELOCHE,Communauté de communes de la Montagne Thiernoise,SAINT-REMY-SUR-DUROLLE,64,46,18,9,17,38,0,0,2014,0
+423,63073,CHADELEUF,Communauté de communes Couze Val d'Allier,CHAMPEIX,10,9,0,0,0,0,0,0,2014,0
+424,63074,CHALUS,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,0,0,0,0,0,0,0,0,2014,0
+425,63075,CHAMALIERES,Communauté d'Agglomération Clermont-Communauté,CHAMALIERES,492,404,88,38,109,345,0,0,2014,0
+426,63076,CHAMBON-SUR-DOLORE,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,15,8,7,0,8,7,0,0,2014,0
+427,63077,CHAMBON-SUR-LAC,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,11,10,0,0,0,7,0,0,2014,0
+428,63078,CHAMEANE,Communauté de communes du Pays de Sauxillanges,SAUXILLANGES,7,0,0,0,0,6,0,0,2014,0
+429,63079,CHAMPAGNAT-LE-JEUNE,Communauté de communes Bassin Minier Montagnes,JUMEAUX,0,0,0,0,0,0,0,0,2014,0
+430,63080,CHAMPEIX,Communauté de communes Puy et Couzes,CHAMPEIX,32,23,9,0,7,20,0,0,2014,0
+431,63081,CHAMPETIERES,Communauté de communes du Pays d'Ambert,AMBERT,11,9,0,0,0,9,0,0,2014,0
+432,63082,CHAMPS,Communauté de communes de Côtes de Combrailles,COMBRONDE,8,0,0,0,0,6,0,0,2014,0
+433,63083,CHANAT-LA-MOUTEYRE,Communauté de communes Volvic Sources et Volcans,ROYAT,15,11,0,0,6,7,0,0,2014,0
+434,63084,CHANONAT,Communauté de communes Les Cheires,SAINT-AMANT-TALLENDE,22,15,7,0,0,14,0,0,2014,0
+435,63085,CHAPDES-BEAUFORT,Communauté de communes Pontgibaud Sioule et Volcans,PONTGIBAUD,26,19,7,0,7,16,0,0,2014,0
+436,63086,LA CHAPELLE-AGNON,Communauté de communes du Pays de Cunlhat,CULHAT,13,11,0,0,0,10,0,0,2014,0
+437,63087,LA CHAPELLE-MARCOUSSE,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+438,63088,LA CHAPELLE-SUR-USSON,Communauté de communes Bassin Minier Montagnes,JUMEAUX,0,0,0,0,0,0,0,0,2014,0
+439,63089,CHAPPES,Communauté de communes Limagne d'Ennezat,ENNEZAT,29,19,10,0,14,10,0,0,2014,0
+440,63090,CHAPTUZAT,Communauté de communes Nord Limagne,AIGUEPERSE,7,7,0,0,0,0,0,0,2014,0
+441,63091,CHARBONNIER-LES-MINES,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,25,21,0,0,8,16,0,0,2014,0
+442,63092,CHARBONNIERES-LES-VARENNES,Communauté de communes Volvic Sources et Volcans,MANZAT,25,18,7,0,9,14,0,0,2014,0
+443,63093,CHARBONNIERES-LES-VIEILLES,Manzat Communauté,MANZAT,28,15,13,0,11,14,0,0,2014,0
+444,63094,CHARENSAT,Communauté de communes Coeur de Combrailles,SAINT-GERVAIS-D'AUVERGNE,19,16,0,0,0,13,0,0,2014,0
+445,63095,CHARNAT,Communauté de communes entre Allier et Bois Noirs,LEZOUX,9,0,0,0,0,6,0,0,2014,0
+446,63096,CHAS,Communauté de communes Billom Saint-Dier Vallée du Jauron,VERTAIZON,0,0,0,0,0,0,0,0,2014,0
+447,63097,CHASSAGNE,Ardes Communauté,ARDES-SUR-COUZE,0,0,0,0,0,0,0,0,2014,0
+448,63098,CHASTREIX,Communauté de communes du Massif du Sancy,LA TOUR D'AUVERGNE,9,0,0,0,0,7,0,0,2014,0
+449,63099,CHATEAUGAY,Communauté d'Agglomération Clermont-Communauté,RIOM-OUEST,49,36,13,0,19,26,0,0,2014,0
+450,63100,CHATEAUNEUF-LES-BAINS,Manzat Communauté,MANZAT,21,10,11,0,0,15,0,0,2014,0
+451,63101,CHATEAU-SUR-CHER,Communauté de communes du Pays de Pionsat,PIONSAT,8,0,0,0,0,7,0,0,2014,0
+452,63102,CHATELDON,Communauté de communes entre Allier et Bois Noirs,CHATELDON,28,18,10,0,10,15,0,0,2014,0
+453,63103,CHATELGUYON,Communauté de communes Volvic Sources et Volcans,RIOM-EST,108,80,28,8,26,74,0,0,2014,0
+454,63104,LA CHAULME,Communauté de communes de la Vallée de l'Ance,SAINT-ANTHEME,0,0,0,0,0,0,0,0,2014,0
+455,63105,CHAUMONT-LE-BOURG,Communauté de communes du Pays d'Arlanc,ARLANC,0,0,0,0,0,0,0,0,2014,0
+456,63106,CHAURIAT,Communauté de communes Mûr-Es-Allier,VERTAIZON,19,13,6,0,0,11,0,0,2014,0
+457,63107,CHAVAROUX,Communauté de communes Limagne d'Ennezat,ENNEZAT,9,8,0,0,0,6,0,0,2014,0
+458,63108,LE CHEIX,Riom Communauté,RIOM-EST,6,0,0,0,0,0,0,0,2014,0
+459,63109,CHIDRAC,Communauté de communes Puy et Couzes,CHAMPEIX,0,0,0,0,0,0,0,0,2014,0
+460,63110,CISTERNES-LA-FORET,Communauté de communes de Hautes Combrailles,PONTGIBAUD,22,13,9,0,12,9,0,0,2014,0
+461,63111,CLEMENSAT,Communauté de communes Puy et Couzes,CHAMPEIX,0,0,0,0,0,0,0,0,2014,0
+462,63112,CLERLANDE,Communauté de communes Limagne d'Ennezat,ENNEZAT,9,7,0,0,0,0,0,0,2014,0
+463,63113,CLERMONT-FERRAND,Communauté d'Agglomération Clermont-Communauté,PSEUDO-CANTON DE CLERMONT-FERRAND,2684,2101,583,358,643,1681,0,0,2014,0
+464,63114,COLLANGES,Communauté de communes Lembron Val d'Allier,SAINT-GERMAIN-LEMBRON,0,0,0,0,0,0,0,0,2014,0
+465,63115,COMBRAILLES,Communauté de communes de Hautes Combrailles,PONTAUMUR,10,6,0,0,0,0,0,0,2014,0
+466,63116,COMBRONDE,Communauté de communes de Côtes de Combrailles,COMBRONDE,48,29,19,6,11,31,0,0,2014,0
+467,63117,COMPAINS,Communauté de communes du Massif du Sancy,BESSE-ET-SAINT-ANASTAISE,6,0,0,0,0,0,0,0,2014,0
+468,63118,CONDAT-EN-COMBRAILLE,Communauté de communes de Hautes Combrailles,PONTAUMUR,21,15,6,0,8,10,0,0,2014,0
+469,63119,CONDAT-LES-MONTBOISSIER,Communauté de communes du Haut Livradois,SAINT-GERMAIN-L'HERM,10,8,0,0,0,6,0,0,2014,0
+470,63120,CORENT,Gergovie Val d'Allier Communauté,VEYRE-MONTON,0,0,0,0,0,0,0,0,2014,0
