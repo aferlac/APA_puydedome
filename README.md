@@ -1,5 +1,7 @@
 # APA_puydedome
 
+Ce repo contient les données de fonctionnement de l'application Streamlit suivante : https://share.streamlit.io/aferlac/apa_puydedome/main/APA_st_v01.py
+
 Cette application permet de visualiser le nombre de bénéficiaires de l'allocation personalisée d'autonomie versée dans le département du Puy de Dôme.
 
 Les données sont éditées par le département du Puy de Dôme 
