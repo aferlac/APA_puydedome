@@ -42,8 +42,9 @@ st.title('Allocataires APA dans le Puy de Dôme')
 
 st.header('**Répartition des allocataires en 2020**')
 col1, col2, col3 = st.columns([1.5,1,2.5])
-commune = col1.selectbox(label='Choisissez une commune', options=df2020['LIBL_COMMUNE'].sort_values().unique())
-indice_commune=dfgeocommune.index[dfgeocommune['CODE_COMMUNE']==df2020[df2020['LIBL_COMMUNE']==commune]['CODE_COMMUNE'].tolist()[0]].tolist()[0]
+commune = col1.selectbox(label='Choisissez une commune', 
+                         options=df2020['LIBL_COMMUNE'].sort_values().unique())
+indice_commune = dfgeocommune.index[dfgeocommune['CODE_COMMUNE']==df2020[df2020['LIBL_COMMUNE']==commune]['CODE_COMMUNE'].tolist()[0]].tolist()[0]
 # Affichage du nombre d'allocataires pour la commune 
 if commune == 'CLERMONT-FERRAND':
     col2.metric("Nombre d'allocataires dans la commune",
