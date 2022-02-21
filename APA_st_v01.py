@@ -181,12 +181,7 @@ st.text("* : Donnée non disponible, valeur entre 0 et 5 ")
 st.write('---')
 
 
-<<<<<<< Updated upstream
-
 st.header("Evolution du nombre d'allocataires depuis 2014 à "+commune)
-=======
-st.header("**Evolution du nombre d'allocataires depuis 2014 à **"+commune)
->>>>>>> Stashed changes
 
 année = [2014, 2015, 2016, 2017, 2018, 2019, 2020]
 total, fem, hom, m75, p75, p84, dom, eta = [], [], [], [], [], [], [], []
