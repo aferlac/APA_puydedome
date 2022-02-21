@@ -154,7 +154,7 @@ st.write('---')
 
 
 
-st.header("**Evolution du nombre d'allocataires depuis 2014 à **"+commune)
+st.header("Evolution du nombre d'allocataires depuis 2014 à "+commune)
 
 année = [2014, 2015, 2016, 2017, 2018, 2019, 2020]
 total, fem, hom, m75, p75, p84, dom, eta = [], [], [], [], [], [], [], []
